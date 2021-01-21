@@ -1,6 +1,12 @@
 # yall-data-hasura
 parler data ported to docker/hasura/postgres
 
+##Prereqs
+
+docker
+
+hasura cli
+
 in the root folder run:
 
 ```docker-compose up -d```
