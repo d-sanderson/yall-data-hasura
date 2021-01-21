@@ -6,6 +6,10 @@ in the root folder run:
 docker-compose up -d
 
 
-hasura migrate apply
+```hasura migrate apply```
+
+```hasura seeds apply```
+
+seeds planted
 
 ok ur rdy
