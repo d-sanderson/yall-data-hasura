@@ -1,5 +1,5 @@
 CREATE TABLE public.parler (
-    "styleUrl" text NOT NULL,
+    styleurl text NOT NULL,
     name text NOT NULL,
     longitude text NOT NULL,
     latitude text NOT NULL,
