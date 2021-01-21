@@ -1,7 +1,7 @@
 # yall-data-hasura
 parler data ported to docker/hasura/postgres
 
-##Prereqs
+## Prerequisites
 
 docker
 
